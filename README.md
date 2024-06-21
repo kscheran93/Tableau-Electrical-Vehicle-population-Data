@@ -1,8 +1,4 @@
-Sure! Here's the rewritten README information for your GitHub repository, including the problem statement, KPIs, and chart requirements:
-
----
-
-# Electric Vehicles Market Analysis
+# Electric Vehicle population Data 
 
 ## Problem Statement
 
