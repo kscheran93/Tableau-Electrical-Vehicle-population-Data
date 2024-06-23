@@ -41,6 +41,6 @@ This project aims to analyze the electric vehicle (EV) market, focusing on key p
 5. **Top 10 Total Vehicles by Model:**
    - **Visualization:** Tree Map
    - **Description:** Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
-   ![Alt text](/Dashboard 1.png)
+![Alt text](/Dashboard 1.png)
 
 
