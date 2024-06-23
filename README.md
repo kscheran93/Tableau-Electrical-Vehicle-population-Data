@@ -1,3 +1,8 @@
+
+![Dashboard](https://github.com/kscheran93/Tableau-Electrical-Vehicle-population-Data/blob/main/Dashboard%201.png)
+
+[The full project Link ](https://public.tableau.com/views/ElectricVehiclePolpulationAnalysisProject/Dashboard1?:language=en-US&:sid=9E1CFB8599784A1996930D8D42087300-0:0&:display_count=n&:origin=viz_share_link)
+
 # Electric Vehicle population Data 
 
 ## Problem Statement
